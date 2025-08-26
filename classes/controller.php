@@ -12,6 +12,7 @@ class controller {
 			$this->isAjax = false;
 		}
 	}
+	
 	public function workflow(){
 		$this->getRequested();
 		$this->validateRequest();
