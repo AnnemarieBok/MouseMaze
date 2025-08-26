@@ -1,0 +1,14 @@
+.menuBtn img{
+	height: 100px;
+	width: 100px;
+}
+.topBar {
+	display: flex;
+	justify-content: flex-end;
+	padding: 10px;
+}
+.centerDiv {
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+}
